@@ -1,3 +1,3 @@
-#Password Generator Project
+## Password Generator Project
 
- Genrate random password according to user input
+# Genrate random password according to user input
