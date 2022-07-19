@@ -7,5 +7,5 @@ Shift: 23 <br />
 Cipher: XYZABCDEFGHIJKLMNOPQRSTUVW <br />
 
 Text : ATTACKATONCE <br />
-Shift: 4
+Shift: 4 <br />
 Cipher: EXXEGOEXSRGI
