@@ -16,7 +16,7 @@ def caesar():
   if direction=="encode":
     for letter in text:
       if letter in alphabet:
-        shift_letter+= alphabet[alphabet.index(letter)+shift-26] #using reverser value of letter by decreasing 26 to solve the list index out of range error
+        shift_letter+= alphabet[alphabet.index(letter)+shift-26] #using reverse value of letters by decreasing 26 to solve the list index out of range error
       else:
         shift_letter+=letter
   elif direction=="decode":
