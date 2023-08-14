@@ -28,7 +28,7 @@ def caesar():
   print(f"Your {direction}d text is {shift_letter}")
   cont=input("Type 'yes' if you want to go again. Otherwise type 'no'.\n")   
   if cont=='yes':
-    os.system('clear')
+    os.system('cls')
     caesar()
 
 caesar()
