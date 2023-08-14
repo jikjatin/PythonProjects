@@ -32,4 +32,4 @@ def Guess_no():
 while play=='y':
   Guess_no()
   play=input("Press 'y' to play again or any other key to exit: ")
-  os.system('clear')
+  os.system('cls')
