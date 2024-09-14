@@ -18,5 +18,5 @@ for i in range(nr_numbers):
 random.shuffle(password)
 fpassword=''
 for char in password:
-  fpassword+=char
+  fpassword+=char               #Cann't print list as it is, need to convert it to string first.
 print(f"Your randomly generated password is: {fpassword}")  
